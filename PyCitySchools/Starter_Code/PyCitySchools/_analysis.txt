@@ -1,0 +1,22 @@
+District Summary: The City’s school district board consists of 15 schools with a total of 39,170 students a total budget of $24,649,428.00, city's school district, the students have a verygood/good average Reading score and higher passing % in Reading compared to Math.
+
+conclusion of district summary: The Overall Passing percentage of the students across all 15 schools is around 65%.
+
+School Summary: The City’s school district has two types of schools District and Charter. The district schools serve more number of students compared to Charter schools, however the ‘Per Student Budget’ is high in District schools compared to Charter Schools.
+The district schools lack in average Math score compared to reading, hence resulting in a lesser % Passing in Math. This has also brought down their overall Passing % much lesser than the Overall Passing % of board.
+On the other hand, Charter school maintains a good Average scores in both Math and Reading, resulting in a much higher Overall Passing % in comparison to the board %
+
+Highest-Performing Schools (by % Overall Passing): The Charter schools tops the performance across the City’s school district board. 
+
+Bottom Performing Schools (By % Overall Passing): The District schools secured the bottom Performance ranks across the City’s school district board.
+
+Math Scores by Grade: Average Math Scores are consistent across grades in any school. There is no huge variance observed with in a school amongst different grades. However, across schools the Maths score is varying. 
+
+Conclusions based on the overall calculations:
+
+ - schools that spent less per student (<$585) produced greater results overall, that is consistent across subjects compared to the schools that ran on higher spent (Per Student Spend $645-680). 
+ - On the size, the smaller and medium schools Outperformed Larger schools in Math by a great extent. (around 90% versus 67%)
+ - Charter schools outperformed the District schools on all areas, resulting in a greater results on spent. More analysis is required to understand the factors that drove to the results. 
+ 
+ Thank you 
+ Osmar luna 
